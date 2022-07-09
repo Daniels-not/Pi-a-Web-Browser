@@ -1,7 +1,6 @@
-# Piña-Web-Browser
+# Piña-Web-Browser 🐱‍🏍
 
-# Client zoomer ✨
-![index](https://github.com/Daniels-not/clientzoomer/blob/master/1.png) 
+![index](https://github.com/Daniels-not/Pi-a-Web-Browser/blob/master/PI%C3%91A%20WEB%20BROWSER.PNG) 
 
 ## Instructions 📑
 
