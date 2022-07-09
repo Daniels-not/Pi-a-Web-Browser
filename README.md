@@ -1,6 +1,6 @@
 # Piña-Web-Browser 🐱‍🏍
 
-![index](https://github.com/Daniels-not/Pi-a-Web-Browser/blob/master/PI%C3%91A%20WEB%20BROWSER.PNG) 
+![index](https://github.com/Daniels-not/Pi-a-Web-Browser/blob/master/preview%20web.PNG) 
 
 ## Instructions 📑
 
