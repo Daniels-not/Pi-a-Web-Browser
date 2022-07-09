@@ -14,6 +14,11 @@ Piña is a web browser for people who want something simple and elegant 🐱‍�
 
 - Reload ✔️
 
-
 ## Technologies used in this project ❤️
+
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+## Licence 🧭
+
+- MET
