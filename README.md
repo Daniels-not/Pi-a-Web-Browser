@@ -7,9 +7,6 @@
 
 Piña is a web browser for people who want something simple and elegant 🐱‍👓
 
-![list](https://github.com/Daniels-not/clientzoomer/blob/master/3.png)
-![list](https://github.com/Daniels-not/clientzoomer/blob/master/4.png)
-
 ## Functionalities ✨
 
 - Search✔️
